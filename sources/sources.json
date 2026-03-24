@@ -1,0 +1,14 @@
+{
+  "telegram_channels": [
+    "https://t.me/s/durov",
+    "https://t.me/s/github"
+  ],
+  "rss_feeds": [
+    "https://github.blog/feed/",
+    "https://www.cisa.gov/news-events/cybersecurity-advisories.xml"
+  ],
+  "github_queries": [
+    "telegram osint",
+    "threat intelligence"
+  ]
+}

@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local environment
+.env
+.venv/
+
+# Generated pipeline artifacts
+output/*.json
+output/*.txt
+!output/.gitkeep
